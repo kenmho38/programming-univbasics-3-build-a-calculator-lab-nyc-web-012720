@@ -25,7 +25,7 @@ multiplication(5,5)
 def modulo(num1, num2)
 end
 
-def square_root(num)
+def square_root(num1, num2)
   sum = num1 ** num2
 end
 
