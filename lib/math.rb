@@ -29,4 +29,4 @@ def square_root(num)
   sum = num1 ** num2
 end
 
-square_root(5,5)
+square_root(5,2)
