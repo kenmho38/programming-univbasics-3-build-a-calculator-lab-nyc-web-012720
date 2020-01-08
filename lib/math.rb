@@ -26,7 +26,7 @@ def modulo(num1, num2)
  sum = num1 / num2
 end
 
-modulo(34,5)
+modulo(40,10)
 
 def square_root(num)
   Math.sqrt(num)
