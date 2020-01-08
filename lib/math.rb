@@ -29,7 +29,7 @@ end
 modulo(34,5)
 
 def square_root(num)
-  Math.sin
+  Math.sin(num)
 end
 
 square_root(81)
