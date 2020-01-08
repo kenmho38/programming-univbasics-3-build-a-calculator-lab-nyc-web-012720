@@ -32,4 +32,4 @@ def square_root(num)
   Math.sqrt(81)
 end
 
-square_root(num)
+square_root(81)
