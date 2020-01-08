@@ -14,7 +14,7 @@ def division(num1, num2)
   sum = num1 / num2
 end
 
-division(10/5)
+division(10,5)
 
 def multiplication(num1, num2)
 
