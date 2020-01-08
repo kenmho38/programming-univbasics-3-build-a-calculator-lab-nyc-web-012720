@@ -23,7 +23,7 @@ end
 multiplication(5,5)
 
 def modulo(num1, num2)
- mod.class(num1, num2)
+ mod.class
 end
 
 modulo(34,5)
