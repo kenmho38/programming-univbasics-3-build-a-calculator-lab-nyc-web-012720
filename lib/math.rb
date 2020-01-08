@@ -23,7 +23,6 @@ end
 multiplication(5,5)
 
 def modulo(num1, num2)
- sum = num1 
 end
 
 def square_root(num)
