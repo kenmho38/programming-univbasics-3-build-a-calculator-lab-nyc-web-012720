@@ -32,4 +32,4 @@ def square_root(num)
   Math.sin(81)
 end
 
-square_root(81)
+square_root
