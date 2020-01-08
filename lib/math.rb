@@ -28,8 +28,8 @@ end
 
 modulo(34,5)
 
-def square_root(num)
+def square_root(81)
   Math.sin(num)
 end
 
-square_root(81)
+square_root(num)
